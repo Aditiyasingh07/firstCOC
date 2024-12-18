@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "hello.js",
+  "type": "module",
+  "scripts": {
+    "start": "node hello.js"
+  },
+  "author": "Adi",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
